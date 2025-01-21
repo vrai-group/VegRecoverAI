@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ced2016d",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 12.8106266374903, 43.379642645338201 ], [ 12.810569573999199, 43.381227726499503 ], [ 12.813059533376601, 43.381275389991799 ], [ 12.8131165320977, 43.379690306206797 ], [ 12.8106266374903, 43.379642645338201 ] ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "faggeta_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "faggeta_1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.123225781731771, 43.678770136578009, 0.0 ], [ 12.123553742520141, 43.679835616986892, 0.0 ], [ 12.125603258289839, 43.679467773958358, 0.0 ], [ 12.12524037544445, 43.678353911730063, 0.0 ], [ 12.123225781731771, 43.678770136578009, 0.0 ] ] ] } }
+]
+}

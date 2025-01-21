@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "metanodotto_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "metanodotto_3", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.15167284338647, 43.743621855935508, 0.0 ], [ 12.152180963818131, 43.745881041998487, 0.0 ], [ 12.14812534166631, 43.746387844406811, 0.0 ], [ 12.147467109468369, 43.744076931984431, 0.0 ], [ 12.15167284338647, 43.743621855935508, 0.0 ] ] ] } }
+]
+}

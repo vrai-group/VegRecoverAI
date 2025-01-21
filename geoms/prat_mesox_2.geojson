@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prat_mesox_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "prat_mesox_2", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.10709854719344, 43.636244476980373, 0.0 ], [ 12.106789882143079, 43.635237119317381, 0.0 ], [ 12.107662593775981, 43.635075352712647, 0.0 ], [ 12.107983843697451, 43.636063765896118, 0.0 ], [ 12.10709854719344, 43.636244476980373, 0.0 ] ] ] } }
+]
+}

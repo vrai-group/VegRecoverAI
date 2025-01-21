@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cd5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 12.6959951454775, 43.6767579955253 ], [ 12.6959951454775, 43.681016232724801 ], [ 12.701620991704599, 43.681016232724801 ], [ 12.701620991704599, 43.6767579955253 ], [ 12.6959951454775, 43.6767579955253 ] ] ] ] } }
+]
+}

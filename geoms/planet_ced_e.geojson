@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "planet_ced_e",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 12.7979756964373, 43.388821880262697 ], [ 12.7978632124646, 43.3919273135823 ], [ 12.8015892737392, 43.391999034716299 ], [ 12.8017015677607, 43.388893593662402 ], [ 12.7979756964373, 43.388821880262697 ] ] ] ] } }
+]
+}

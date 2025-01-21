@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "saliceti_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "saliceti_1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.22941658039182, 43.813638461089397, 0.0 ], [ 12.22871453524594, 43.813539403660243, 0.0 ], [ 12.22825811340782, 43.813294062093981, 0.0 ], [ 12.227894620294871, 43.81297346192008, 0.0 ], [ 12.22843469007525, 43.812931256834602, 0.0 ], [ 12.22879092751405, 43.813016799216143, 0.0 ], [ 12.22956913844067, 43.813243432038057, 0.0 ], [ 12.22988598239751, 43.813449653626613, 0.0 ], [ 12.230230812092881, 43.813839873034198, 0.0 ], [ 12.22941658039182, 43.813638461089397, 0.0 ] ] ] } }
+]
+}

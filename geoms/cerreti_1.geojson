@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "cerreti_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "cerreti_1", "description": null, "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": 1, "extrude": 0, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 12.15686810985402, 43.716902327125233, 0.0 ], [ 12.157802494843059, 43.719211213304099, 0.0 ], [ 12.159353259375131, 43.718837460318383, 0.0 ], [ 12.158480372079209, 43.716477045746949, 0.0 ], [ 12.15686810985402, 43.716902327125233, 0.0 ] ] ] } }
+]
+}
