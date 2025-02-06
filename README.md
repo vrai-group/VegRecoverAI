@@ -22,7 +22,7 @@ This repository contains the code, models, and resources for the project **"VegR
 The code is divided into some scripts to be executed locally related to the extraction of time series from Sentinel-2, Landsat8 and Planet images; and by a Jupyter notebook  (*Change_Detection_Forecasting_Restore_Point.ipynb*) for the change detection, forecasting and restoration status assessment phase of the study areas.
 
 ### Time Series Extraction
-## Requirements
+### Requirements
 This project requires **Python 3.10**. Then, install the packages in  *requirements.txt*.
 
 ```
